@@ -54,6 +54,42 @@ Resistors
 # way
 [ ] R?? 4K7  # Note: this may need to be 6KR to raise the output levels.
 
+# At the upper-left of the the ATMEGA 644P (IC8) solder a pull-up resistor
+[ ] R?? 10K  # RST Pull-up for theATMEGA 644P 
+
+# To the left of the MCU, solder the 20Mhz crystal
+[ ] X?? # 20Mhz Crystal for ATMEGA 644P
+
+# Flip the board over, so that the legends are readable in the orientation.
+# to the lower left of the rectangular hole for the display, there is an IC
+# that may be marked IC10 but is marked IC13 on the Ambika instructions. To
+# the left of that, there are locations for 7 470R current-limiting resistors
+# for LEDs
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+
+# Near the middle of the board (below the hole for the display) is another
+# part, labeled IC11 on my PCB but labeled IC14 on the Ambika instructions.
+# There are 8 470R current-limiting resistors here for LEDs.
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+[ ] R?? 470R
+
+
+
+
+
+
 
 
 
