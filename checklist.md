@@ -26,6 +26,34 @@ Resistors
 [ ] R?? 470R
 [ ] R?? 470R
 
+# These two 100K resistors are mounted directly below the 470R below J2.
+[ ] R?? 100K
+[ ] R?? 100K
+
+# Solder a jumper to the area labeled SW right near the power inlet on the 
+# upper-right of the board.
+[ ] J?? 0R   # Jumper that is installed in lieu of a power switch.
+
+# Near the rectangular hole for the display, there is a pad for a resistor
+# at the top-right. The resistor is not labeled but shows a jumper lead. The
+# Ambika instructions say that most displays don't need an external resistor
+# for display brightness, but that Optrex displays need a 100R resistor.
+# Since I don't know which display this is, I am electing to install a 51R
+# resistor to split the difference. If the display is not bright enough then
+# I'll remove it and install a jumper. I've opted to use a 10% R that's tan
+# in color to draw attention to this change.
+[ ] R?? 51R  # Note: this may need to be 0R to get correct display brightness.
+
+# There is a resistor network labeled RN1 a the top-middle of the board. It is
+# roughly between J2 and J3. Above that, there is a resistor labeled "4.7K to
+# 10K". This sets gain for the mix output. The value of 4.7K or 6.8K is
+# suggested if you plan to install all six voice cards. Since I do, I am going
+# to go ahead and install a 4K7 resistor and make note of this for later if
+# the levels are too low. As above, I will use a tan-colored, 10% resistor
+# here to make it a little more obvious that the value is contended in some
+# way
+[ ] R?? 4K7  # Note: this may need to be 6KR to raise the output levels.
+
 
 
 
