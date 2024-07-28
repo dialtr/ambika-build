@@ -85,16 +85,37 @@ Resistors
 [ ] R?? 470R
 [ ] R?? 470R
 
+# The RN1 10K resistor network has 7 pins and is located between J2 and J3.
+[ ] RN1 10K
 
+# The 4K7 trimmer used to set the display contrast. When the board is flipped
+# to the side where you can read the legend for this part, it is at the upper
+# left hand side of the display cutout, where we previously soldered a 51R
+# resistor to set the brightness (but on the reverse side.
+[ ] VR? 4K7 
 
+# The 4148 small-signal diode near the optocoupler. It is marked D1 in the
+# old official instructions and D3 on the PCB that I bought.
+[ ] D? # 4148 small-signal diode used in MIDI
 
+# 1N4001 rectifier diodes that are installed near the power section, right
+# near the power connector. They are labeled D2, D3 in the official old
+# instruction, but are labeled D1, D2 on my PCB.
+[ ] D? # 1N4001 rectifier for power section
+[ ] D? # 1N4001 rectifier for power section
 
+# There are three more 1N4001 rectifiers to mount on my PCB they are labeled
+# As D4, D6, D8. They are also labeled as such on the old official version
+# of the instructions. This can be confusing because immediately to their
+# right, you will be mounting 1N5819 diodes. 
+[ ] D4 # 1N4001
+[ ] D6 # 1N4001
+[ ] D8 # 1N4001
 
-
-
-
-
-
-
+# These are the 1N5819 diodes. The locations are labeled as follows on both
+# my PCB as well as in the old instructions.
+[ ] D5
+[ ] D7
+[ ] D9
 
 
