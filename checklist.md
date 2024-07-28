@@ -118,4 +118,36 @@ Resistors
 [ ] D7
 [ ] D9
 
+# There are several special caps to be installed near IC1, which is a TL072 
+# op amp that appears to be used to mix the outputs. The 
+[ ] C?? 100P  # Directly above the resistor to the right of the TL072
+[ ] C?? 22P   # Directly next to the left (upper left of the TL072)
+
+# Directly next to the 20Mhz crystal, install two 22P caps.
+[ ] C?? 22P   # Directly next to crystal
+[ ] C?? 22P   # Directly netx to crystal
+
+# Bypass caps
+[ ] C?? 100N  # IC3
+[ ] C?? 100N  # IC4
+[ ] C?? 100N  # OK1 (optocoupler)
+[ ] C?? 100N  # IC1 Upper-right
+[ ] C?? 100N  # IC1 Lower-left
+[ ] C?? 100N  # IC8 Atmel 644p uController bypass
+[ ] C?? 100N  # IC8 "
+[ ] C?? 100N  # IC8 "
+[ ] C?? 100N  # Near regulator IC5 on my PCB
+[ ] C?? 100N  # Near regulator IC6 on my PCB
+[ ] C?? 100N  # Near regulator IC7 on my PCB
+[ ] C?? 100N  # Near IC10 (on my PCB)
+[ ] C?? 100N  # Near IC11 (on my PCB)
+[ ] C?? 100N  # Near IC09 (on my PCB)
+
+# IC Sockets
+[ ] S??       # IC8 40 pin socket
+[ ] S??       # IC3 16 pin socket
+[ ] S??       # IC4 16 pin socket
+[ ] S??       # OK1  8 pin socket
+[ ] S??       # IC1  8 pin socket
+
 
