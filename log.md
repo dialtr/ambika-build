@@ -1,10 +1,6 @@
 # Time Log / Journal
 
-27 July 2024 Sat
-
-Time
-
-* 2 hours checking Mouser order, and ordering a missed part (resistor network)
+## 28 July 2024 Sun
 
 Notes
 
@@ -12,9 +8,16 @@ Notes
 * The value of that part was 4.7K but it's not on the BOM. I ordered the part
   from the BOM which is 10K. I don't think it's critical.
  
-28 July 2024 Sun
-
 Time
 
 * Started working at 14:30
+* Took two 30 minute breks
+* Stopped working at 21:00
+
+## 27 July 2024 Sat
+
+Time
+
+* 2 hours checking Mouser order, and ordering a missed part (resistor network)
+
 
