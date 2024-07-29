@@ -10,7 +10,7 @@ For example, the motherboard that I received was missing many legends for
 parts, making the build process more tedious.
 
 At the present time, aside from this **README.md** file, are **log.md**
-and **checklist.md**.  The former contains a time log (how much time it
+and **checklist.txt**.  The former contains a time log (how much time it
 took me to build, with a caveat mentioned below) nad the latter is a
 checklist modeled after the checklists of Heathkits and others, which
 offered very detailed instructions for each part.
