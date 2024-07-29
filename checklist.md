@@ -150,4 +150,8 @@ Resistors
 [ ] S??       # OK1  8 pin socket
 [ ] S??       # IC1  8 pin socket
 
+# Logic IC
+[ ] IC10      # 74HC595 shift register (LEDs)
+[ ] IC11      # 74HC595 shift register (LEDs)_
+[ ] IC09      # 74HC165 shift register (switches)
 
