@@ -155,3 +155,8 @@ Resistors
 [ ] IC11      # 74HC595 shift register (LEDs)_
 [ ] IC09      # 74HC165 shift register (switches)
 
+# Power Supply Section
+[ ] C?? 100U  # 100uF 16V capacitor 
+[ ] VR?       # MCP1700 LDO Regulator
+[ ] C1  1.0uF # 1.0uF 63 volts 5%
+
