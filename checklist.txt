@@ -86,7 +86,11 @@ Resistors
 [ ] R?? 470R
 
 # The RN1 10K resistor network has 7 pins and is located between J2 and J3.
-[ ] RN1 10K
+[ ] RN1 10K  # Check pin orientation. Part has a dot near pin 1
+
+# The RN2 10K resustor network has 9 pins and is located near the 74HC165
+# shift register
+[ ] RN2 10L  # Check pin orientation. Part has a dot near pin 1
 
 # The 4K7 trimmer used to set the display contrast. When the board is flipped
 # to the side where you can read the legend for this part, it is at the upper
@@ -158,5 +162,28 @@ Resistors
 # Power Supply Section
 [ ] C?? 100U  # 100uF 16V capacitor 
 [ ] VR?       # MCP1700 LDO Regulator
-[ ] C1  1.0uF # 1.0uF 63 volts 5%
+[ ] C1  1.0uF # 1.0uF 63 volts 5% square box film capacitor
+[ ] IC5       # 7908 Regulator
+[ ] IC6       # 2940 Regulator
+[ ] IC7       # 7805 1A regulator
+[ ] Heatsink  # For under the 7805 
+[ ] Hardware  # 3x M3 screws to fix regulators to PCB / heatsink
+[ ] C4        # 2200uF / 25V - Marked C4 on my PCB
+[ ] C9        # 4700uF / 25V - Marked C9 on my PCB
+[ ] C12       # 2200uF / 25V - Marked C12 on my PCB. Note: I subbed a 16V cap temporarily.
+[ ] C14       # 100uF / 16V - Marked as C14 on my PCB
+[ ] C16       # 100uF / 16V - Marked as C16 on my PCB
+[ ] C23       # 100uF / 16V - Marked as C23 on my PCB
+
+# Connectors
+[ ] SDC       # SD Card Holder. Unlikely to be the correct part, needs rigging
+[ ] DIN1      # MIDI In 5-pin DIN
+[ ] DIN2      # MIDI Out 5-pin DIN
+[ ] JP1       # Voice card connector 1x6 Female
+[ ] JP2       # "
+[ ] JP3       # " 
+[ ] JP4       # "
+[ ] JP5       # "
+[ ] JP6       # "
+[ ] PRG       # 2x3 pin male header for Atmel 644 programmer port
 

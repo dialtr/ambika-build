@@ -1,5 +1,15 @@
 # Time Log / Journal
 
+## 03 Aug 2024 Sat
+
+Notes
+
+* Received resistor networks from mouser.
+
+Time
+
+* Started working at 11:05
+
 ## 28 July 2024 Sun
 
 Notes
