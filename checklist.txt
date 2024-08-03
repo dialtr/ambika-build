@@ -186,4 +186,12 @@ Resistors
 [ ] JP5       # "
 [ ] JP6       # "
 [ ] PRG       # 2x3 pin male header for Atmel 644 programmer port
+[ ] PHNM      # Phone jack for audio out (mix, 1-6_
+[ ] PHN1      # "
+[ ] PHN2      # " 
+[ ] PHN3      # " 
+[ ] PHN4      # "
+[ ] PHN5      # "
+[ ] PHN6      # "
+
 
