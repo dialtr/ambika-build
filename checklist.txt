@@ -194,4 +194,25 @@ Resistors
 [ ] PHN5      # "
 [ ] PHN6      # "
 
+# Display and LEDs
+[ ] HDR       # Install 2x8 Male header on display, long pins facing up on display side.
+[ ] DISP      # Install display; visible side faces down (most components are installed on top)
+[ ] LED 1     # Front panel LEDs. These are bi-color leds and so the orientation that they are
+[ ] LED 2     #   installed is important.  The following assumes When board is oriented with
+[ ] LED 3     #   the display side toward you and the LED holes closest to you. For the cluster
+[ ] LED 4     #   of 7 LEDs to on the left side, the long lead of the LEDs should go in the
+[ ] LED 5     #   right hole.  For LEDs 8-15, the holes are aligned vertically. For those, the
+[ ] LED 6     #   long leads of the LEDs should be in the top holes that are closer to the
+[ ] LED 7     #   the display. When the unit is powered on, LED 9 should be green. Don't 
+[ ] LED 8     #   forget to include the little LED spacers, whicH appear in the official
+[ ] LED 9     #   instructions but are not on the BOM. I eyeballed those and ordered 3mm LED
+[ ] LED 10    #   spacers from Amazon and they appear to be the correct height. (We shall see
+[ ] LED 11    #   when the case comes.)
+[ ] LED 12
+[ ] LED 13
+[ ] LED 14
+[ ] LED 15
+
+
+
 

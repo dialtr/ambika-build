@@ -1,5 +1,15 @@
 # Time Log / Journal
 
+## 04 Aug 2024 Sun
+
+Notes
+
+* Received LED standoffs from Amazon
+
+Time
+
+* Started working at around 16:50
+
 ## 03 Aug 2024 Sat
 
 Notes
