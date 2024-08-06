@@ -208,11 +208,30 @@ Resistors
 [ ] LED 9     #   instructions but are not on the BOM. I eyeballed those and ordered 3mm LED
 [ ] LED 10    #   spacers from Amazon and they appear to be the correct height. (We shall see
 [ ] LED 11    #   when the case comes.)
-[ ] LED 12
-[ ] LED 13
-[ ] LED 14
-[ ] LED 15
+[ ] LED 12    #
+[ ] LED 13    #
+[ ] LED 14    #
+[ ] LED 15    #
 
+# Switches and Pots
+[ ] S1        # The tactile switches install on the side as other controls and display
+[ ] S2        # "
+[ ] S3        # "
+[ ] S4        # "
+[ ] S5        # "
+[ ] S6        # "
+[ ] S7        # "
+[ ] S8        #
 
+[ ] VR?       # Linear pots for controls
+[ ] VR?       # " 
+[ ] VR?       # " 
+[ ] VR?       # "
+[ ] VR?       # " 
+[ ] VR?       # "
+[ ] VR?       # "
+[ ] VR?       # "
+
+[ ] VR?       # Volume Control - 100K audio taper
 
 
