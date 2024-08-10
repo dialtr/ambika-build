@@ -233,5 +233,6 @@ Resistors
 [ ] VR?       # "
 
 [ ] VR?       # Volume Control - 100K audio taper
+[ ] ENC       # Rotary encoder (right of board.)
 
 
