@@ -1,0 +1,45 @@
+Ambika 4PM Build Checklist
+
+Resistors
+
+[ ] R1  2K2
+[ ] R2  22K
+[ ] R3  33K
+[ ] R4  33K
+[ ] R5  470R
+
+[ ] R6  33K
+[ ] R7  33K
+[ ] R8  470R
+[ ] R9  470R
+[ ] R10 33K
+
+[ ] R11 44K
+[ ] R12 2K2
+[ ] R13 22K
+[ ] R14 2K2
+[ ] R15 22K
+
+[ ] R16 22K
+[ ] R17 10K
+[ ] R18 22k
+[ ] R19 220R
+[ ] R20 470R
+
+[ ] R21 10K
+[ ] R22 33K
+[ ] R23 33K
+[ ] R24 460
+[ ] R25 470R
+
+[ ] R26 33K
+[ ] R27 33K
+[ ] R28 5K      # Variable resistor / V/Oct Trimmer
+[ ] R29 220R
+[ ] R30 470R  
+
+[ ] R31 470R
+[ ] R32 220R
+[ ] R33 220R
+[ ] R34 10K
+
