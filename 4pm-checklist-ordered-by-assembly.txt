@@ -1,8 +1,8 @@
 Ambika 4PM Build Checklist
 
-Resistors
+Resistors [34 Total]
 
-[ ] R19 220R
+[ ] R19 220R   
 [ ] R29 220R
 [ ] R32 220R
 [ ] R33 220R
@@ -16,8 +16,8 @@ Resistors
 [ ] R30 470R  
 [ ] R31 470R
 
-[ ] R1  2K2
-[ ] R12 2K2
+[ ] R1  2K2   
+[ ] R12 2K2  
 [ ] R14 2K2
 
 [ ] R28 5K      # Variable resistor / V/Oct Trimmer
@@ -36,16 +36,16 @@ Resistors
 [ ] R4  33K
 [ ] R6  33K
 [ ] R7  33K
-[ ] R10 33K
+[ ] R10 33K 
 
-[ ] R11 33K
+[ ] R11 33K 
 [ ] R22 33K
 [ ] R23 33K
 [ ] R26 33K
-[ ] R27 33K
+[ ] R27 33K 
 
 
-Diodes [5]
+Diodes [5 Total]
 
 [ ] D1   - 3V6  - 3.6v Zener
 [ ] D2   - 3V6  - 3.6v Zener
@@ -54,7 +54,7 @@ Diodes [5]
 [ ] LED2 - YELLOW
 
 
-IC Sockets
+IC Sockets [7 Total]
 
 [ ] IC1 - TL074CP
 [ ] IC2 - LM13700N
@@ -65,7 +65,7 @@ IC Sockets
 [ ] IC7 - ATMega328p
 
 
-Capacitors
+Capacitors [33 Total]
 
 [ ] C31 - 20P  # for crystal
 [ ] C32 - 20P  # for crystal
@@ -73,26 +73,26 @@ Capacitors
 [ ] C4  - 100P
 
 [ ] C9  - 560P
-[ ] C10 - 560P
+[ ] C10 - 560P 
 [ ] C21 - 560P
 [ ] C22 - 560P 
 
 [ ] C2  - 100N
 [ ] C3  - 100N
-[ ] C5  - 100N
+[ ] C5  - 100N 
 [ ] C6  - 100N
 [ ] C8  - 100N
 
 [ ] C11 - 100N
 [ ] C12 - 100N
-[ ] C15 - 100N
+[ ] C15 - 100N 
 [ ] C16 - 100N
 [ ] C17 - 100N
 
 [ ] C18 - 100N
 [ ] C20 - 100N
-[ ] C24 - 100N
-[ ] C28 - 100N
+[ ] C24 - 100N 
+[ ] C28 - 100N 
 [ ] C29 - 100N
 [ ] C30 - 100N
 
@@ -100,7 +100,7 @@ Capacitors
 
 # Electrolytic Caps
 
-[ ] C14 - 100U
+[ ] C14 - 100U 
 [ ] C25 - 100U
 
 [ ] C1  - 4U7  - Non-polarized
@@ -116,15 +116,14 @@ Capacitors
 [ ] C23 - 220P - Styroflex or equiv.
 
 
-
-Transistors / Crystals
+Transistors / Crystals [3 Total]
 
 [ ] Q1  - 2N3906
 [ ] Q2  - 2N3906
 [ ] Q3  - 20 Mhz Crystal
 
 
-Connectors
+Connectors [4 Total]
 
 [ ] JMP - 3 Pin A/B Sel Jumper
 [ ] JMP - 3 Pin A/B Sel Jumper
