@@ -43,3 +43,82 @@ Resistors
 [ ] R33 220R
 [ ] R34 10K
 
+
+Diodes
+
+[ ] D1   - 3V6  - 3.6v Zener
+[ ] D2   - 3V6  - 3.6v Zener
+[ ] D3   - 4V7  - 4.7v Zener
+[ ] LED1 - GREEN
+[ ] LED2 - YELLOW
+[ ]
+
+
+IC Sockets
+
+[ ] IC1 - TL074CP
+[ ] IC2 - LM13700N
+[ ] IC3 - TL072CP
+[ ] IC4 - V2164D
+[ ] IC5 - TL072CP
+[ ] IC6 - MCP4822
+[ ] IC7 - ATMega328p
+
+
+Capacitors
+
+[ ] C1  - 4U7  - Non-polarized
+[ ] C2  - 100N
+[ ] C3  - 100N
+[ ] C4  - 100P
+[ ] C5  - 100N
+
+[ ] C6  - 100N
+[ ] C7  - 220P - Styroflex or equiv.
+[ ] C8  - 100N
+[ ] C9  - 560P
+[ ] C10 - 560P
+
+[ ] C11 - 100N
+[ ] C12 - 100N - Styroflex or equiv.
+[ ] C13 - 220P
+[ ] C14 - 100U
+[ ] C15 - 100N
+
+[ ] C16 - 100N
+[ ] C17 - 100N
+[ ] C18 - 100N
+[ ] C19 - 220P - Styroflex or equiv.
+[ ] C20 - 100N
+
+[ ] C21 - 560P
+[ ] C22 - 560P 
+[ ] C23 - 220P - Styroflex or equiv.
+[ ] C24 - 100N
+[ ] C25 - 100U
+
+[ ] C26 - 220N
+[ ] C27 - 4U7  - Non-polarized
+[ ] C28 - 100N
+[ ] C29 - 100N
+[ ] C30 - 100N
+
+[ ] C31 - 20P
+[ ] C32 - 20P
+[ ] C33 - 100U
+
+
+Transistors / Crystals
+
+[ ] Q1  - 2N3906
+[ ] Q2  - 2N3906
+[ ] Q3  - 20 Mhz Crystal
+
+
+Connectors
+
+[ ] JMP - 3 Pin A/B Sel Jumper
+[ ] JMP - 3 Pin A/B Sel Jumper
+[ ] HDR - 6 Pin header
+[ ] HDR - 6 Pin header
+
