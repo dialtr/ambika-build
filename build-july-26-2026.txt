@@ -1,11 +1,16 @@
 Ambika 4PM Build Checklist
 
+# LOG
+
+started at 12:30pm 
+
+
 Resistors [34 Total]
 
-[ ] R19 220R   
-[ ] R29 220R
-[ ] R32 220R
-[ ] R33 220R
+[x] R19 220R   
+[x] R29 220R
+[x] R32 220R
+[x] R33 220R
 
 [ ] R5  470R
 [ ] R8  470R
