@@ -2,106 +2,118 @@ Ambika 4PM Build Checklist
 
 # LOG
 
-started at 12:30pm 
+July 26th
 
+started at 12:30pm
+done with 220R at 12:45pm
+started with 470R at 12:45pm 
+paused at 12:55pm
+resumed at 14:00
+paused at 14:28
+resume 16:03
+<< missed time >>
+stopped 23:58
+
+July 31st
+resumed 23:11
 
 Resistors [34 Total]
 
 [x] R19 220R   
 [x] R29 220R
 [x] R32 220R
-[x] R33 220R
+[x] R33 220R # 12:45 pm
 
-[ ] R5  470R
-[ ] R8  470R
-[ ] R9  470R
-[ ] R20 470R
-[ ] R24 470R
-[ ] R25 470R
-[ ] R30 470R  
-[ ] R31 470R
+[x] R5  470R
+[x] R8  470R
+[x] R9  470R
+[x] R20 470R
+[x] R24 470R
+[x] R25 470R
+[x] R30 470R  
+[x] R31 470R # 14:28
 
-[ ] R1  2K2   
-[ ] R12 2K2  
-[ ] R14 2K2
+[x] R1  2K2   
+[x] R12 2K2  
+[x] R14 2K2
 
-[ ] R28 5K      # Variable resistor / V/Oct Trimmer
+[x] R28 5K      # Variable resistor / V/Oct Trimmer
 
-[ ] R17 10K
-[ ] R21 10K
-[ ] R34 10K
+[x] R17 10K
+[x] R21 10K
+[x] R34 10K
 
-[ ] R2  22K
-[ ] R13 22K
-[ ] R15 22K
-[ ] R16 22K
-[ ] R18 22k
+[x] R2  22K
+[x] R13 22K
+[x] R15 22K
+[x] R16 22K
+[x] R18 22k
 
-[ ] R3  33K
-[ ] R4  33K
-[ ] R6  33K
-[ ] R7  33K
-[ ] R10 33K 
+[x] R3  33K
+[x] R4  33K
+[x] R6  33K
+[x] R7  33K
+[x] R10 33K 
 
-[ ] R11 33K 
-[ ] R22 33K
-[ ] R23 33K
-[ ] R26 33K
-[ ] R27 33K 
+[x] R11 33K 
+[x] R22 33K
+[x] R23 33K
+[x] R26 33K
+[x] R27 33K 
 
 
 Diodes [5 Total]
 
-[ ] D1   - 3V6  - 3.6v Zener
-[ ] D2   - 3V6  - 3.6v Zener
-[ ] D3   - 4V7  - 4.7v Zener
-[ ] LED1 - GREEN
-[ ] LED2 - YELLOW
+[x] D1   - 3V6  - 3.6v Zener
+[x] D2   - 3V6  - 3.6v Zener
+[x] D3   - 4V7  - 4.7v Zener
+[x] LED1 - GREEN
+[x] LED2 - YELLOW
 
 
 IC Sockets [7 Total]
 
-[ ] IC1 - TL074CP
-[ ] IC2 - LM13700N
-[ ] IC3 - TL072CP
-[ ] IC4 - V2164D
-[ ] IC5 - TL072CP
-[ ] IC6 - MCP4822
-[ ] IC7 - ATMega328p
+[x] IC1 - TL074CP
+[x] IC2 - LM13700N
+[x] IC3 - TL072CP
+[x] IC4 - V2164D
+[x] IC5 - TL072CP
+[x] IC6 - MCP4822
+[x] IC7 - ATMega328p
 
 
 Capacitors [33 Total]
 
-[ ] C31 - 20P  # for crystal
-[ ] C32 - 20P  # for crystal
+[x] C31 - 20P  # for crystal
+[x] C32 - 20P  # for crystal
 
-[ ] C4  - 100P
+[x] C4  - 100P
 
-[ ] C9  - 560P
-[ ] C10 - 560P 
-[ ] C21 - 560P
-[ ] C22 - 560P 
+[x] C9  - 560P
+[x] C10 - 560P 
+[x] C21 - 560P
+[x] C22 - 560P 
 
-[ ] C2  - 100N
-[ ] C3  - 100N
-[ ] C5  - 100N 
-[ ] C6  - 100N
-[ ] C8  - 100N
+[x] C2  - 100N
+[x] C3  - 100N
+[x] C5  - 100N 
+[x] C6  - 100N
+[x] C8  - 100N
+[x] C11 - 100N
+[x] C12 - 100N
 
-[ ] C11 - 100N
-[ ] C12 - 100N
-[ ] C15 - 100N 
-[ ] C16 - 100N
-[ ] C17 - 100N
+[x] C15 - 100N 
+[x] C16 - 100N
+[x] C17 - 100N
 
-[ ] C18 - 100N
-[ ] C20 - 100N
-[ ] C24 - 100N 
-[ ] C28 - 100N 
-[ ] C29 - 100N
-[ ] C30 - 100N
+[x] C18 - 100N
+[x] C20 - 100N
+[x] C24 - 100N 
+[x] C28 - 100N 
+[x] C29 - 100N
+[x] C30 - 100N
 
-[ ] C26 - 220N
+[x] C26 - 220N
 
 # Electrolytic Caps
 
